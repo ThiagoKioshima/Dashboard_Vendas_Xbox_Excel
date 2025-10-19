@@ -1,4 +1,4 @@
-# Criando um Dashboard de Vendas do Xbox utilezando Microsoft Excel
+# Criando um Dashboard de Vendas do Xbox utilizando Microsoft Excel
 
 ### Entendendo o Desafio
 
